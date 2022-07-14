@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+  }
+  article{
+    padding: 5px;
+    background: rgb(242,242,242);
+  background: -moz-linear-gradient(180deg, rgba(242,242,242,1) 0%, rgba(170,234,247,0.4822303921568627) 100%);
+  background: -webkit-linear-gradient(180deg, rgba(242,242,242,1) 0%, rgba(170,234,247,0.4822303921568627) 100%);
+  background: linear-gradient(180deg, rgba(242,242,242,1) 0%, rgba(170,234,247,0.4822303921568627) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f2f2f2",endColorstr="#aaeaf7",GradientType=1);
+    border-radius: 16px;
+    border: solid;
+    border-color: rgba(0,0,0,0.2);
+  }
+  #warn{
+    margin: 0;
+    background: grey;
+    padding: 5px;
+    border-radius: 10px;
+    color: yellow;
+    font-weight: 400;
+  }
