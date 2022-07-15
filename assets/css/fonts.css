@@ -1,0 +1,61 @@
+/*
+font-family: 'BIZ UDGothic', sans-serif;
+font-family: 'BIZ UDPGothic', sans-serif;
+font-family: 'BIZ UDPMincho', serif;
+font-family: 'Encode Sans', sans-serif;
+font-family: 'Libre Barcode 39 Extended Text', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* Font IDs */
+#enc-f{
+    font-family:'Encode Sans',sans-serif;
+}
+#barcode-f{
+    font-family:'Libre Barcode 39 Extended Text',cursive;
+}
+#mont-f{
+    font-family:'Montserrat',sans-serif;
+}
+#jp-f{
+    font-family:'Noto Sans JP',sans-serif;
+}
+#open-sans-f{
+    font-family:'Open Sans',sans-serif;
+}
+#roboto-f{
+    font-family:'Roboto',sans-serif;
+}
+#sanp-f{
+    font-family:'Source Sans Pro',sans-serif;
+}
+#ubun-f{
+    font-family:'Ubuntu',sans-serif;
+}
+/* font Weights */
+#bold{
+    font-weight:bold;
+}
+#bolder{
+    font-weight:bolder;
+}
+#lighter{
+    font-weight:lighter;
+}
+
+/* font Styles  */
+#italic{
+    font-style:normal;
+}
+#oblique{
+    font-style:oblique;
+}
