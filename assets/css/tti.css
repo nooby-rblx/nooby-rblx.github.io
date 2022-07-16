@@ -4,3 +4,14 @@ img {
     border-color: rgba(0, 0, 0, 0.3);
     border-width: 6px;
 }
+header{
+  background: darkgrey;
+  border-radius: 16px;
+  border: solid rgba(0,0,0,0.2);
+  text-align: center;
+  margin: 0;
+}
+header > p {
+  color: white;
+  margin: 0;
+}
