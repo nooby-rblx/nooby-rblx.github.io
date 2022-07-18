@@ -4,3 +4,11 @@ url: https://nooby-rblx.github.io
 github: https://github.com/nooby-rblx/
 author: TheNoobyGaming
 description: My game asset sharing Website
+
+plugins:
+ - jekyll-sitemap
+ - jekyll-seo-tag
+ - jekyll-feed
+ - jekyll-github-metadata
+
+sitemap: true

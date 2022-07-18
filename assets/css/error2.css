@@ -1,0 +1,26 @@
+#e-title{
+    background: rgba(255,100,100,0.3);
+    padding: 4px;
+    margin:0;
+    border-radius: 16px;
+    color: white;
+        box-shadow: 0 0 16px 1px white,
+             inset 0 0 8px 1px white;
+      text-shadow: white 0px 4px 32px;
+  }
+  #e-description{
+      background: rgba(100,100,100,0.3);
+    padding: 16px;
+    margin:0;
+    border-radius: 6px;
+    color: white;
+        box-shadow: 0 0 5px 1px white,
+             inset 0 0 5px 1px white;
+      text-shadow: white 0px 0px 10px;
+  }
+  body {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    text-align: center;
+    background: 20% url('https://nooby-rblx.github.io/assets/img/back.png');
+}
