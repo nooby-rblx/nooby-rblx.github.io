@@ -5,13 +5,24 @@
     </head>
     <body>
         <div id="container">
-            <!-- Google Tag Manager (noscript) -->
-            <noscript>
-                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KG5CLP3" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-            </noscript>
-            <!-- End Google Tag Manager (noscript) -->
-            {% include header.html %}
-            {{ content }}
+          <div id="loader">
+            <div class="spinner">
+              <div class="bounce1"></div>
+              <div class="bounce2"></div>
+              <div class="bounce3"></div>
+            </div>
+          </div>
+          <!-- Google Tag Manager (noscript) -->
+          <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KG5CLP3" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+          </noscript>
+          <!-- End Google Tag Manager (noscript) -->
+          <header>
+            Nooby RBLX
+            <p id="enc-f bold">This creator's Fun facts:</p>
+            <p id="fun-fact-cont">Coming Soon!</p>
+          </header>
+          {{ content }}
         </div>
-    </body>
+      </body>
 </html>

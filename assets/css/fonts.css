@@ -4,6 +4,8 @@ body {
     margin: 0;
     text-align: center;
     background: 20% url('https://nooby-rblx.github.io/assets/img/back.png');
+  color: white;
+  text-shadow: 0 0 2px black;
 }
 
 /* Font IDs */
